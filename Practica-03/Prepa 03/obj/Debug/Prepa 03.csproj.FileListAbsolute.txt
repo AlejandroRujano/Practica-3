@@ -1,0 +1,8 @@
+C:\Users\aleja\Source\Repos\Practica-03\Prepa 03\bin\Debug\Prepa 03.exe.config
+C:\Users\aleja\Source\Repos\Practica-03\Prepa 03\bin\Debug\Prepa 03.exe
+C:\Users\aleja\Source\Repos\Practica-03\Prepa 03\bin\Debug\Prepa 03.pdb
+C:\Users\aleja\Source\Repos\Practica-03\Prepa 03\obj\Debug\Prepa 03.csproj.AssemblyReference.cache
+C:\Users\aleja\Source\Repos\Practica-03\Prepa 03\obj\Debug\Prepa 03.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\Source\Repos\Practica-03\Prepa 03\obj\Debug\Prepa 03.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Source\Repos\Practica-03\Prepa 03\obj\Debug\Prepa 03.exe
+C:\Users\aleja\Source\Repos\Practica-03\Prepa 03\obj\Debug\Prepa 03.pdb
